@@ -1,0 +1,13 @@
+luFactor_gh.m
+
+The luFactor_gh.m algorithm determines the LU factoization of a square matrix.
+
+Inputs:
+• A - coefficient matrix
+
+Outputs:
+• L - lower triangular matrix
+• U - upper triangular matrix
+• P - the pivot matrix
+
+The algorithm will only work if the square matrix entered is pivotted. 
