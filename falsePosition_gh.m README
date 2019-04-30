@@ -1,7 +1,7 @@
-falsePosition.m
+falsePosition_gh.m
 
 
-The falsePosition.m algorithm estimates the root of a given function.
+The falsePosition_gh.m algorithm estimates the root of a given function.
 
 Inputs: • func - the function being evaluated • xl - the lower guess • xu - the upper guess • es - the desired relative error (should default to 0.0001%) • maxiter - the number of iterations desired (should default to 200)
 
