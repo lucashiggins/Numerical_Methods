@@ -1,0 +1,14 @@
+Simpson_gh.m
+
+The Simpson_gh.m algorithm integrates experimental data using the Simpson 1/3 method.
+
+Inputs:
+• x - the range of x values
+• y - the range of y values
+
+Outputs:
+• I - the integrated value 
+
+The algorithm will only work if the amount of x values is the same as y values. The spacing between intervals
+must be the same. Simpson_gh.m will also use the trapeziodal rule on the last interval if there are an odd 
+number of intervals. Every other interval will use Simpson's 1/3 rule. 
